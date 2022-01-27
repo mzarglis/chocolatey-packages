@@ -2,8 +2,20 @@
 Verification is intended to assist the Chocolatey moderators and community
 in verifying that this package's contents are trustworthy.
 
-The original zip and extracted exe are downloaded from the Github Release e.g.:
-https://github.com/infracost/infracost/releases/tag/0.9.16
+The embedded software have been downloaded from the listed download
+location on <>
+and can be verified by doing the following:
 
-<Include details of how to verify checksum contents>
-Checksum infracost.exe from github release vs infracost.exe in the package
+1. Download the following:
+   - https://github.com/infracost/infracost/releases/download/v0.9.16/infracost-windows-amd64.tar.gz
+   - extract infracost.exe
+2. Get the checksum using one of the following methods:
+   - Using powershell function 'Get-FileHash'
+   - Use chocolatey utility 'checksum.exe'
+3. The checksums should match the following:
+
+  Algorithm: sha256
+  checksum: 04E08F3CCF22429F09D147244C525CC6D6E0DCBDD06668DE37D4655E5A09CD98
+
+
+The file 'LICENSE.txt' has been obtained from <https://github.com/infracost/infracost/blob/master/LICENSE>
