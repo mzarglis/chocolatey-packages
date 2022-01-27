@@ -4,7 +4,7 @@
   <metadata>
     <id>infracost</id>
     <version>0.9.16</version>
-    <packageSourceUrl>https://github.com/infracost/infracost/scripts/chocolately</packageSourceUrl>
+    <packageSourceUrl>https://github.com/mzarglis/chocolatey-packages/tree/main/infracost</packageSourceUrl>
     <owners>mzarglis</owners>
     <title>infracost</title>
     <authors>Hassan Khajeh-Hosseini, Ali Khajeh-Hosseini, Alistair Scott</authors>
