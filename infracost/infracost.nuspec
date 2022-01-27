@@ -11,7 +11,7 @@
     <projectUrl>https://www.infracost.io/</projectUrl>
     <iconUrl>https://rawcdn.githack.com/mzarglis/chocolatey-packages/578b962afd3254fa503be1898e4beae106984edf/infracost/icon.png</iconUrl>
     <copyright>2021 Infracost</copyright>
-   <projectSourceUrl>https://github.com/infracost/infracost</projectSourceUrl>
+    <projectSourceUrl>https://github.com/infracost/infracost</projectSourceUrl>
     <docsUrl>https://www.infracost.io/docs/</docsUrl>
     <tags>infracost cloud infrastructure-as-code terraform iac azure aws cost estimate</tags>
     <summary>Show the cloud cost of each Infrastructure change in CI/CD</summary>
